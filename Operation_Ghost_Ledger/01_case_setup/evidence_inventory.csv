@@ -1,0 +1,12 @@
+Package,Evidence,Type,Volatility,Priority,Planned Tool/Method,Status
+A,audio.wav,Audio,Persistent,High,Spectrogram and metadata,Pending actual file
+A,Execution_Certificate.pdf,Document,Persistent,High,PDF structure and metadata,Pending actual file
+A,Bribe_Calculation.xlsx,Spreadsheet,Persistent,High,Metadata/content comparison,Pending actual file
+A,Screenshots,Image,Persistent,Medium,Metadata/content analysis,Pending actual files
+A,Archived webpage (.warc),Web archive,Persistent,Medium,Archive inspection,Pending actual file
+B,Okafor Windows 11 E01,Disk image,Persistent,High,Autopsy/Sleuth Kit,Pending actual evidence
+B,Memory dump,RAM capture,Volatile-derived,Critical,Volatility,Pending actual evidence
+B,72-hour PCAP,Network,Persistent,High,Wireshark,Pending actual evidence
+B,Nkosi Android SQLite backup,Mobile,Persistent,High,SQLite/mobile analysis,Pending actual evidence
+B,Okafor iPhone SQLite backup,Mobile,Persistent,High,SQLite/mobile analysis,Pending actual evidence
+B,NWPA Oracle Cloud JSON logs,Cloud logs,Persistent,High,JSON/log correlation,Pending actual evidence

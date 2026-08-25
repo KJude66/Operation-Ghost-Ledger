@@ -1,0 +1,6 @@
+Timestamp,Evidence Source,Artifact,Observed Fact,Corroboration,Interpretation,Confidence,Analyst
+TBD,Package A,Leaked audio,[populate from analysis],,Test for splicing at 15%,,
+TBD,Package A/B,Financial spreadsheet,[populate from analysis],,Compare creator/metadata/content,,
+TBD,Memory / filesystem,AI tool/process,[populate from analysis],,Potential manipulation capability,,
+TBD,PCAP,Network session,[populate from analysis],,Correlate external activity,,
+TBD,Oracle JSON logs,Cloud access,[populate from analysis],,Correlate account activity,,
