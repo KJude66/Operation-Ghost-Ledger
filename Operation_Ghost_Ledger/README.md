@@ -2,7 +2,7 @@
 
 **Course:** Advanced Digital Forensics / ISS 7133
 **Prepared by:** Kum Jude Wung
-
+    
 
 ## Case summary
 
